@@ -1,2 +1,2 @@
 My project
-Ge it done
+Get it done
